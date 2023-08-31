@@ -1,0 +1,36 @@
+nav ul{
+    background-color: pink;
+}
+section p{
+    color: red;
+}
+.color {
+    color: red;
+}
+.paragraphs {
+    border-style: solid;
+    border-radius: 3ch;
+    border-color: green;
+}
+.links{
+    font-weight: bold;
+}
+#p3 {
+    font-size:x-large;
+}
+nav ul li{
+    margin-bottom:3ch ;
+}
+.link1{
+    color: aqua;
+    text-decoration: solid;
+}
+.link2{
+    text-decoration: underline;
+}
+section{
+    padding:1ch;
+}
+footer{
+    border-style: dotted;
+}
